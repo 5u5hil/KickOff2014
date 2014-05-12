@@ -16,7 +16,7 @@
     
     <preference name="android-minSdkVersion" value="14" />
 
-
+    <gap:plugin name="com.phonegap.plugins.barcodescanner"  />
 
     <gap:splash src="images/splash.png" /> 
     
